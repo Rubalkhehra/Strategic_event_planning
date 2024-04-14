@@ -17,7 +17,7 @@ Backend: PHP
 Database: MySQL   
 SMS API: (Specify the SMS API used, if applicable)   
 ## Installation
-Clone the repository: git clone [https://github.com/your_username/project_name.git](https://github.com/Rubalkhehra/Strategic_event_planning.git)   
+Clone the repository: git clone [https://github.com/Rubalkhehra/Strategic_event_planning.git](https://github.com/Rubalkhehra/Strategic_event_planning.git)   
 Import the database schema provided in the database.sql file into your MySQL database.   
 Configure the database connection in the connect-to-db.php file.   
 Upload the project files to your web server.   
